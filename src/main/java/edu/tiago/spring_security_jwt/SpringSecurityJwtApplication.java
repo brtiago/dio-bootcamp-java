@@ -1,4 +1,4 @@
-package dio.spring_security_jwt;
+package edu.tiago.spring_security_jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

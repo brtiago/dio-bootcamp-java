@@ -11,6 +11,10 @@ public class JWTObject {
     private Date expiration;
     private List<String> roles;
 
+    public void setRoles(List<String> roles) {
+        this.roles = roles;
+    }
+
     public void setRoles(String... roles) {
         this.roles = Arrays.asList(roles);
     }

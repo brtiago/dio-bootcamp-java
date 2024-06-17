@@ -1,4 +1,4 @@
-package edu.tiago.spring_security_jwt.security;
+package edu.tiago.spring_security_jwt.service;
 
 import edu.tiago.spring_security_jwt.model.User;
 import org.springframework.beans.factory.annotation.Autowired;

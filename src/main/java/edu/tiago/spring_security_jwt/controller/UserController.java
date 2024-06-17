@@ -1,7 +1,7 @@
 package edu.tiago.spring_security_jwt.controller;
 
 import edu.tiago.spring_security_jwt.model.User;
-import edu.tiago.spring_security_jwt.security.UserService;
+import edu.tiago.spring_security_jwt.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

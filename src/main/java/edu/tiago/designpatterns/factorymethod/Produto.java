@@ -12,4 +12,12 @@ public class Produto {
         this.possuiDimensoesFisicas = possuiDimensoesFisicas;
     }
 
+    @Override
+    public String toString() {
+        return "Produto{" +
+                "descricao='" + descricao + '\'' +
+                ", preco=" + preco +
+                ", possuiDimensoesFisicas=" + possuiDimensoesFisicas +
+                '}';
+    }
 }

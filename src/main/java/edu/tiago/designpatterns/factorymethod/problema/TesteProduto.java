@@ -1,4 +1,8 @@
-package edu.tiago.designpatterns.factorymethod;
+package edu.tiago.designpatterns.factorymethod.problema;
+
+import edu.tiago.designpatterns.factorymethod.Produto;
+import edu.tiago.designpatterns.factorymethod.ProdutoDigital;
+import edu.tiago.designpatterns.factorymethod.ProdutoFisico;
 
 public class TesteProduto {
 
